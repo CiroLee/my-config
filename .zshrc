@@ -10,7 +10,7 @@ alias pul="pnpm update --latest"
 # git
 alias ga="git add ."
 alias gst="git status"
-alias gs="git switch"
+alias gc="git switch"
 alias gsc="git switch -c"
 
 # gopls
