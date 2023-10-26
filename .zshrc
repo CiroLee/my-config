@@ -10,8 +10,10 @@ alias pul="pnpm update --latest"
 # git
 alias ga="git add ."
 alias gst="git status"
-alias gc="git switch"
+alias gs="git switch"
 alias gsc="git switch -c"
+alias gcm="git commit -m"
+alias gp="git push"
 
 # gopls
 path+=/Users/YOPURNAME/go/bin
