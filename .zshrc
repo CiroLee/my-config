@@ -1,15 +1,16 @@
 # my alias
 alias cl="clear"
 alias cat='bat --paging=never'
-alias delete="rm -rf"
 alias ..="cd .."
 alias delete="rm -rf"
-# npm
+# npm & pnpm
 alias pi="pnpm install"
 alias pa="pnpm add"
 alias nr="npm run"
 alias ni="npm install"
+alias nu="npm uninstall"
 alias pul="pnpm update --latest"
+alias pr="pnpm remove"
 # git
 alias ga="git add ."
 alias gst="git status"
