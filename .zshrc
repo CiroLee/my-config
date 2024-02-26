@@ -3,6 +3,7 @@ alias cl="clear"
 alias cat='bat --paging=never'
 alias ..="cd .."
 alias delete="rm -rf"
+alias ls="ls --color"
 # npm & pnpm
 alias pi="pnpm install"
 alias pa="pnpm add"
