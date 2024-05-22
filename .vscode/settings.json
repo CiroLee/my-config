@@ -6,6 +6,5 @@
   },
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "editor.formatOnSave": true,
-  "stylelint.validate": ["css", "scss", "less"],
-  "tailwindCSS.experimental.classRegex": [["tv\\((([^()]*|\\([^()]*\\))*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]]
+  "stylelint.validate": ["css", "scss", "less"]
 }
